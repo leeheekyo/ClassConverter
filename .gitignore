@@ -1,0 +1,14 @@
+# common
+target
+build
+lib
+logs
+
+.DS_Store
+.classpath
+.project
+.settings
+.factorypath
+mvnw
+mvnw.cmd
+
